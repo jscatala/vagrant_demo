@@ -1,9 +1,9 @@
-#Configuración por defecto
+# Configuración por defecto
 
 _L$_ : Comando ejecutado en la máquina física
 _R$_ : Comando ejecutado en la máquina virtual
 
-##Procedimiento a ejecutar
+## Procedimiento a ejecutar
 
 En el presente directorio, se va a generar una máquina con la configuración por defecto, utilizando el box XenialXerus64. Se instalará de forma manual Apache2 y se linkeará el directorio compartido por defecto (_/vagrant_ en la máquina virtual) a la configuración de apache.
 
