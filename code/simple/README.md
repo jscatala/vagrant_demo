@@ -1,6 +1,7 @@
 # Configuración por defecto
 
 _L$_ : Comando ejecutado en la máquina física
+
 _R$_ : Comando ejecutado en la máquina virtual
 
 ## Procedimiento a ejecutar
